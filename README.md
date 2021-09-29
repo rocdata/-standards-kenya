@@ -1,2 +1,3 @@
-# -standards-kenya
-Controlled vocabularies and curriculum standards for the Kenya educational system published by KICD.
+# standards-kenya
+Controlled vocabularies and curriculum standards for the 
+Kenya educational system published by KICD.

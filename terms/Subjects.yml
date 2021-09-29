@@ -1,0 +1,108 @@
+type: ControlledVocabulary
+kind: subjects
+jurisdiction: Ghana
+name: Subjects
+uri: https://rocdata.global/terms/Ghana/Subjects
+country: GH
+language: en
+label: Ghana Academic Subjects
+description: Academic subjects used in the Ghana educational standards.
+terms:
+  - term: LL
+    label: Language and Literacy
+    definition: Compromising Oral Language, Reading and Writing
+    keyPhases: [KG]
+  - term: N
+    label: Numeracy and Mathematics
+    keyPhases: [KG]
+  - term: CA
+    label: Creative Arts (CA)
+    keyPhases: [KG]
+  - term: WP
+    label: Our World and our People
+    keyPhases: [KG]
+
+  - term: English
+    label: English Language
+    alt_label: Literacy (English Language)
+    keyPhases: [LP, UP, JSH, SHS]
+  - term: Mathematics
+    label: Mathematics
+    keyPhases: [LP, UP, JSH, SHS]
+  - term: GhanaianLanguage
+    label: Ghanaian Language
+    keyPhases: [LP, UP, JSH]
+  - term: CreativeArts
+    label: Creative Arts
+    keyPhases: [LP, UP]
+  - term: GeneralArts
+    label: General Arts
+    keyPhases: [SHS]
+  - term: ICT
+    label: Information and Communication Technology
+    keyPhases: [LP, UP, JHS, SHS]
+  - term: RME
+    label: Religious and Moral Education
+    keyPhases: [LP, UP, JHS]
+  - term: PhysicalEducation
+    label: Physical Education
+    keyPhases: [LP, UP, JHS, SHS]
+  - term: IntegratedScience
+    label: Integrated Science
+    keyPhases: [UP, JHS, SHS]
+  - term: NaturalSciences
+    label: Natural Sciences
+    keyPhases: [LP]
+
+  - term: CitizenshipEducation
+    label: Citizenship Education
+    keyPhases: [UP]
+
+  - term: SocialStudies
+    label: Social Studies
+    keyPhases: [JHS, SHS]
+
+  - term: French
+    label: French
+    keyPhases: [JHS]
+  - term: MusicAndDance
+    label: Music and Dance
+    keyPhases: [JHS]
+  - term: DesignAndTechnology
+    label: Basic Design and Technology
+    keyPhases: [JHS]
+
+  - term: Science
+    label: Science
+    keyPhases: [SHS]
+  - term: BusinessEducation
+    label: Business Education
+    keyPhases: [SHS]
+  - term: AgriculturalScience
+    label: Agricultural Science
+    keyPhases: [SHS]
+  - term: HomeEconomics
+    label: Home Economics
+    keyPhases: [SHS]
+  - term: TVET
+    label: Technical and Vocational Education
+    keyPhases: [SHS]
+
+English
+ii) Kiswahili
+iii) Kenya Sign Language (for learners with hearing impairment)
+iv) Home Science
+v) Agriculture
+vi) Science and Technology
+vii) Mathematics
+viii) ChristianReligiousEducation
+ix) Islamic Religious Education
+x) Hindu Religious Education
+xi) Music
+xii) Art and Craft
+xiii) Physical and Health Education
+xiv) Social Studies
+xv) Life skills
+xvi) Indigenous Languages (All Kenyan languages - Each language as a stand-alone)
+xvii) Foreign Languages (Arabic, French, German, Mandarin)
+(Each language as a standalone)

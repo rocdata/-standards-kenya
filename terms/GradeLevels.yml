@@ -1,0 +1,41 @@
+type: ControlledVocabulary
+kind: education_levels
+jurisdiction: Kenya
+name: GradeLevels 
+uri: https://rocdata.global/Kenya/terms/GradeLevels
+country: KE
+label: Kenya Grade Levels
+description: >
+  Controlled vocabulary for describing the grade levels in the Kenya educational system.
+  The list of terms includes identifies for both the old curriculum standards
+  and the new CBC standards.
+source: https://kicd.ac.ke/wp-content/uploads/2019/08/BASIC-EDUCATION-CURRICULUM-FRAMEWORK-2019.pdf
+terms:
+  - term: KG1
+    label: Kindergarten 1
+  - term: KG2
+    label: Kindergarten 2
+  - term: B1
+    label: Basic 1
+  - term: B2
+    label: Basic 2
+  - term: B3
+    label: Basic 3
+  - term: B4
+    label: Basic 4
+  - term: B5
+    label: Basic 5
+  - term: B6
+    label: Basic 6
+  - term: B7
+    label: Basic 7
+  - term: B8
+    label: Basic 8
+  - term: B9
+    label: Basic 9
+  - term: SHS1
+    label: Senior High School 1
+  - term: SHS2
+    label: Senior High School 2
+  - term: SHS3
+    label: Senior High School 3

@@ -1,0 +1,25 @@
+type: ControlledVocabulary
+kind: curriculum_elements
+jurisdiction: Kenya
+name: CurriculumElements
+uri: https://rocdata.global/Kenya/terms/CurriculumElements
+country: KE
+label: Kenya Curriculum Elements
+description: >
+  Controlled vocabulary for describing the different elements within the
+  curriculum standards for the educational system in Kenya.
+source: https://drive.google.com/file/d/1lEqE85xMmgZTr-t2Z-KbUCgBi4NVDzPv/view
+language: en
+terms:
+  - term: subject
+    label: Subject
+  - term: grade
+    label: Grade level
+    alt_label: Form
+  - term: topic
+    label: Topic
+  - term: learning_objective
+    label: Learning objective
+  - term: content
+    label: Content
+
