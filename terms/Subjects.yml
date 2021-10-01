@@ -6,7 +6,9 @@ uri: https://rocdata.global/terms/Ghana/Subjects
 country: GH
 language: en
 label: Ghana Academic Subjects
-description: Academic subjects used in the Ghana educational standards.
+description: >
+  Academic subjects used in the Ghana educational standards. This list includes
+  terms for both the old and new curriculums.
 terms:
   - term: LL
     label: Language and Literacy
@@ -58,10 +60,6 @@ terms:
     label: Citizenship Education
     keyPhases: [UP]
 
-  - term: SocialStudies
-    label: Social Studies
-    keyPhases: [JHS, SHS]
-
   - term: French
     label: French
     keyPhases: [JHS]
@@ -71,6 +69,10 @@ terms:
   - term: DesignAndTechnology
     label: Basic Design and Technology
     keyPhases: [JHS]
+
+  - term: SocialStudies
+    label: Social Studies
+    keyPhases: [JHS, SHS]
 
   - term: Science
     label: Science
@@ -88,21 +90,39 @@ terms:
     label: Technical and Vocational Education
     keyPhases: [SHS]
 
-English
-ii) Kiswahili
-iii) Kenya Sign Language (for learners with hearing impairment)
-iv) Home Science
-v) Agriculture
-vi) Science and Technology
-vii) Mathematics
-viii) ChristianReligiousEducation
-ix) Islamic Religious Education
-x) Hindu Religious Education
-xi) Music
-xii) Art and Craft
-xiii) Physical and Health Education
-xiv) Social Studies
-xv) Life skills
-xvi) Indigenous Languages (All Kenyan languages - Each language as a stand-alone)
-xvii) Foreign Languages (Arabic, French, German, Mandarin)
-(Each language as a standalone)
+
+  - term: IndigenousLanguages
+    label: Indigenous Languages
+  - term: KenyaSignLanguage
+    label: Kenya Sign Language
+  - term: ForeignLanguages
+    label: Foreign Languages
+  - term: Kiswahili
+    label: Kiswahili
+  - term: Arabic
+    label: Arabic
+  - term: German
+    label: German
+  - term: Mandarin
+    label: Mandarin
+
+  - term: HomeScience
+    label: Home Science
+  - term: Agriculture
+    label: Agriculture
+  - term: ScienceAndTechnology
+    label: Science and Technology
+  - term: ChristianReligiousEducation
+    label: Christian Religious Education
+  - term: IslamicReligiousEducation
+    label: Islamic Religious Education
+  - term: HinduReligiousEducation
+    label: Hindu Religious Education
+  - term: Music
+    label: Music
+  - term: ArtAndCraft
+    label: Art and Craft
+  - term: PhysicalAndHealthEducation
+    label: Physical and Health Education
+  - term: LifeSkills
+    label: Life skills
